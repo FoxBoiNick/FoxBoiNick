@@ -5,7 +5,7 @@ I'm a python developer, I mainly program discord bots but I have worked on other
     
 - 👩‍💻 I'm currently working on a discord bot called **BeatBot**
 
-- 🧠 I'm currently learning **Python**
+- 🧠 I'm currently learning **Python, CSS, JS & HTML**
 
 - 😄 Pronouns **He/Him**
 
