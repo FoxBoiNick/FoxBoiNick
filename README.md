@@ -1,11 +1,13 @@
 #        <center>👋 Hi I'm Nick</center>
 ## 🚀 About Me
 
-I'm a python developer, I mainly program discord bots but I have worked on other projects too.
+I'm a developer, I mainly program discord bots in python but I have worked on other projects too.
     
 - 👩‍💻 I'm currently working on a discord bot called **BeatBot**
 
-- 🧠 I'm currently learning **Python, CSS, JS & HTML**
+- 🧠 I'm currently learning **C#**
+  
+- 📖 I have knowledge using **JS, Python, CSS, HTML & C#**
 
 - 😄 Pronouns **He/Him**
 
