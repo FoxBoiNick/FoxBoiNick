@@ -1,7 +1,7 @@
 #        <center>👋 Hi I'm Nick</center>
 ## 🚀 About Me
 
-I'm a developer, I mainly program discord bots in python but I have worked on other projects too.
+I'm a developer, I mainly program discord bots in TypeScript but I have worked on other projects too.
     
 - 👩‍💻 I'm currently working on a discord bot called **BeatBot**
 
